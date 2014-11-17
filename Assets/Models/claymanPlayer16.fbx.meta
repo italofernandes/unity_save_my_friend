@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: fe18f272795ea644baae6cf2b897102e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: clayman_BN_armA01
+    100002: clayman_BN_armA02
+    100004: clayman_BN_armB01
+    100006: clayman_BN_armB02
+    100008: clayman_BN_armC01
+    100010: clayman_BN_armC02
+    100012: clayman_BN_armD01
+    100014: clayman_BN_armD02
+    100016: clayman_BN_clavicle01
+    100018: clayman_BN_clavicle02
+    100020: clayman_BN_foot01
+    100022: clayman_BN_foot02
+    100024: clayman_BN_hand01
+    100026: clayman_BN_hand02
+    100028: clayman_BN_head
+    100030: clayman_BN_headA
+    100032: clayman_BN_headB
+    100034: clayman_BN_hips
+    100036: clayman_BN_legA01
+    100038: clayman_BN_legA02
+    100040: clayman_BN_legB01
+    100042: clayman_BN_legB02
+    100044: clayman_BN_legC01
+    100046: clayman_BN_legC02
+    100048: clayman_BN_neck
+    100050: clayman_BN_shoulder01
+    100052: clayman_BN_shoulder02
+    100054: clayman_BN_spineA
+    100056: clayman_BN_spineB
+    100058: clayman_BN_spineC
+    100060: clayman_BN_spineD
+    100062: clayman_BN_tiptoe01
+    100064: clayman_BN_tiptoe02
+    100066: clayman_CT_body
+    100068: clayman_CT_center
+    100070: clayman_CT_chest
+    100072: clayman_CT_clavicle01
+    100074: clayman_CT_clavicle02
+    100076: clayman_CT_elbow01
+    100078: clayman_CT_elbow02
+    100080: clayman_CT_floor
+    100082: clayman_CT_handSoft01
+    100084: clayman_CT_handSoft02
+    100086: clayman_CT_head
+    100088: clayman_CT_hips
+    100090: clayman_CT_knee01
+    100092: clayman_CT_knee02
+    100094: clayman_CT_leg01
+    100096: clayman_CT_leg02
+    100098: clayman_CT_shoulder01
+    100100: clayman_CT_shoulder02
+    100102: clayman_CT_tiptoe01
+    100104: clayman_CT_tiptoe02
+    100106: clayman_HD_aamirelp11
+    100108: clayman_HD_armA01
+    100110: clayman_HD_armA02
+    100112: clayman_HD_armA03
+    100114: clayman_HD_armA04
+    100116: clayman_HD_Circle05
+    100118: clayman_HD_Circle08
+    100120: clayman_HD_Circle28
+    100122: clayman_HD_Circle28 1
+    100124: clayman_HD_Circle29
+    100126: clayman_HD_clavicleA01
+    100128: clayman_HD_clavicleA02
+    100130: clayman_HD_fdf2
+    100132: clayman_HD_fdfs
+    100134: clayman_HD_foot01
+    100136: clayman_HD_foot02
+    100138: clayman_HD_hand01
+    100140: clayman_HD_hand02
+    100142: clayman_HD_hips
+    100144: clayman_HD_legA01
+    100146: clayman_HD_legA02
+    100148: clayman_HD_legA02 1
+    100150: clayman_HD_legA02 2
+    100152: clayman_HD_legA03
+    100154: clayman_HD_legA04
+    100156: clayman_HD_legA05
+    100158: clayman_HD_legA06
+    100160: clayman_HD_legB01
+    100162: clayman_HD_legB03
+    100164: clayman_HD_LegTipA01
+    100166: clayman_HD_LegTipA02
+    100168: clayman_HD_LegTipB01
+    100170: clayman_HD_LegTipB02
+    100172: clayman_HD_Line33
+    100174: clayman_HD_mirelp04
+    100176: clayman_HD_mirelp05
+    100178: clayman_HD_mirelp06
+    100180: clayman_HD_mirelp07
+    100182: clayman_HD_Rectangle01
+    100184: clayman_HD_Rectangle02
+    100186: clayman_HD_Rectangle02 1
+    100188: clayman_HD_Rectangle03
+    100190: clayman_HD_Rectangle03 1
+    100192: clayman_HD_Rectangle04
+    100194: clayman_HD_Rectangle05
+    100196: clayman_HD_Rectangle06
+    100198: clayman_HD_Shape01
+    100200: clayman_HD_Shape02
+    100202: clayman_HD_Shape03
+    100204: clayman_HD_Shape04
+    100206: clayman_HD_Shape05
+    100208: clayman_HD_Shape06
+    100210: clayman_HD_Shape07
+    100212: clayman_HD_Shape08
+    100214: clayman_HD_Shape12
+    100216: clayman_HD_Shape12 1
+    100218: clayman_HD_Shape12 2
+    100220: clayman_HD_Shape12 3
+    100222: clayman_HD_Shape13
+    100224: clayman_HD_Shape16
+    100226: clayman_HD_Shape17
+    100228: clayman_HD_Shape18
+    100230: clayman_HD_Shape22
+    100232: clayman_HD_Shape23
+    100234: clayman_HD_spineA
+    100236: clayman_HD_spineB
+    100238: clayman_HD_spineC
+    100240: clayman_HD_spineD
+    100242: clayman_HD_spineLukat
+    100244: clayman_HD_SqushMain01
+    100246: clayman_HD_Star01
+    100248: clayman_HD_Star02
+    100250: clayman_HD_Star02 1
+    100252: clayman_HD_Star02 2
+    100254: clayman_HD_Star03
+    100256: clayman_HD_Star04
+    100258: clayman_HD_Star06
+    100260: clayman_HD_Star08
+    100262: clayman_HD_Star09
+    100264: clayman_HS_hips
+    100266: clayman_HS_spineA
+    100268: clayman_HS_spineB
+    100270: clayman_HS_spineC
+    100272: clayman_HS_spineD
+    100274: clayman_HS_squashHead_A01
+    100276: clayman_HS_squashHead_B01
+    100278: clayman_MS_body01
+    100280: //RootNode
+    100282: horns
+    400000: clayman_BN_armA01
+    400002: clayman_BN_armA02
+    400004: clayman_BN_armB01
+    400006: clayman_BN_armB02
+    400008: clayman_BN_armC01
+    400010: clayman_BN_armC02
+    400012: clayman_BN_armD01
+    400014: clayman_BN_armD02
+    400016: clayman_BN_clavicle01
+    400018: clayman_BN_clavicle02
+    400020: clayman_BN_foot01
+    400022: clayman_BN_foot02
+    400024: clayman_BN_hand01
+    400026: clayman_BN_hand02
+    400028: clayman_BN_head
+    400030: clayman_BN_headA
+    400032: clayman_BN_headB
+    400034: clayman_BN_hips
+    400036: clayman_BN_legA01
+    400038: clayman_BN_legA02
+    400040: clayman_BN_legB01
+    400042: clayman_BN_legB02
+    400044: clayman_BN_legC01
+    400046: clayman_BN_legC02
+    400048: clayman_BN_neck
+    400050: clayman_BN_shoulder01
+    400052: clayman_BN_shoulder02
+    400054: clayman_BN_spineA
+    400056: clayman_BN_spineB
+    400058: clayman_BN_spineC
+    400060: clayman_BN_spineD
+    400062: clayman_BN_tiptoe01
+    400064: clayman_BN_tiptoe02
+    400066: clayman_CT_body
+    400068: clayman_CT_center
+    400070: clayman_CT_chest
+    400072: clayman_CT_clavicle01
+    400074: clayman_CT_clavicle02
+    400076: clayman_CT_elbow01
+    400078: clayman_CT_elbow02
+    400080: clayman_CT_floor
+    400082: clayman_CT_handSoft01
+    400084: clayman_CT_handSoft02
+    400086: clayman_CT_head
+    400088: clayman_CT_hips
+    400090: clayman_CT_knee01
+    400092: clayman_CT_knee02
+    400094: clayman_CT_leg01
+    400096: clayman_CT_leg02
+    400098: clayman_CT_shoulder01
+    400100: clayman_CT_shoulder02
+    400102: clayman_CT_tiptoe01
+    400104: clayman_CT_tiptoe02
+    400106: clayman_HD_aamirelp11
+    400108: clayman_HD_armA01
+    400110: clayman_HD_armA02
+    400112: clayman_HD_armA03
+    400114: clayman_HD_armA04
+    400116: clayman_HD_Circle05
+    400118: clayman_HD_Circle08
+    400120: clayman_HD_Circle28
+    400122: clayman_HD_Circle28 1
+    400124: clayman_HD_Circle29
+    400126: clayman_HD_clavicleA01
+    400128: clayman_HD_clavicleA02
+    400130: clayman_HD_fdf2
+    400132: clayman_HD_fdfs
+    400134: clayman_HD_foot01
+    400136: clayman_HD_foot02
+    400138: clayman_HD_hand01
+    400140: clayman_HD_hand02
+    400142: clayman_HD_hips
+    400144: clayman_HD_legA01
+    400146: clayman_HD_legA02
+    400148: clayman_HD_legA02 1
+    400150: clayman_HD_legA02 2
+    400152: clayman_HD_legA03
+    400154: clayman_HD_legA04
+    400156: clayman_HD_legA05
+    400158: clayman_HD_legA06
+    400160: clayman_HD_legB01
+    400162: clayman_HD_legB03
+    400164: clayman_HD_LegTipA01
+    400166: clayman_HD_LegTipA02
+    400168: clayman_HD_LegTipB01
+    400170: clayman_HD_LegTipB02
+    400172: clayman_HD_Line33
+    400174: clayman_HD_mirelp04
+    400176: clayman_HD_mirelp05
+    400178: clayman_HD_mirelp06
+    400180: clayman_HD_mirelp07
+    400182: clayman_HD_Rectangle01
+    400184: clayman_HD_Rectangle02
+    400186: clayman_HD_Rectangle02 1
+    400188: clayman_HD_Rectangle03
+    400190: clayman_HD_Rectangle03 1
+    400192: clayman_HD_Rectangle04
+    400194: clayman_HD_Rectangle05
+    400196: clayman_HD_Rectangle06
+    400198: clayman_HD_Shape01
+    400200: clayman_HD_Shape02
+    400202: clayman_HD_Shape03
+    400204: clayman_HD_Shape04
+    400206: clayman_HD_Shape05
+    400208: clayman_HD_Shape06
+    400210: clayman_HD_Shape07
+    400212: clayman_HD_Shape08
+    400214: clayman_HD_Shape12
+    400216: clayman_HD_Shape12 1
+    400218: clayman_HD_Shape12 2
+    400220: clayman_HD_Shape12 3
+    400222: clayman_HD_Shape13
+    400224: clayman_HD_Shape16
+    400226: clayman_HD_Shape17
+    400228: clayman_HD_Shape18
+    400230: clayman_HD_Shape22
+    400232: clayman_HD_Shape23
+    400234: clayman_HD_spineA
+    400236: clayman_HD_spineB
+    400238: clayman_HD_spineC
+    400240: clayman_HD_spineD
+    400242: clayman_HD_spineLukat
+    400244: clayman_HD_SqushMain01
+    400246: clayman_HD_Star01
+    400248: clayman_HD_Star02
+    400250: clayman_HD_Star02 1
+    400252: clayman_HD_Star02 2
+    400254: clayman_HD_Star03
+    400256: clayman_HD_Star04
+    400258: clayman_HD_Star06
+    400260: clayman_HD_Star08
+    400262: clayman_HD_Star09
+    400264: clayman_HS_hips
+    400266: clayman_HS_spineA
+    400268: clayman_HS_spineB
+    400270: clayman_HS_spineC
+    400272: clayman_HS_spineD
+    400274: clayman_HS_squashHead_A01
+    400276: clayman_HS_squashHead_B01
+    400278: clayman_MS_body01
+    400280: //RootNode
+    400282: horns
+    4300000: clayman_MS_body01
+    4300002: horns
+    7400000: Enemy Idle
+    7400002: Enemy Running
+    7400004: Enemy Die
+    9500000: //RootNode
+    13700000: clayman_MS_body01
+    13700002: horns
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Enemy Idle
+      takeName: Take 001
+      firstFrame: 132
+      lastFrame: 168
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: clayman_CT_center
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05/clayman_HD_clavicleA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05/clayman_HD_clavicleA01/clayman_BN_clavicle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02/clayman_HD_clavicleA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02/clayman_HD_clavicleA02/clayman_BN_clavicle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33/clayman_HD_Shape23
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33/clayman_HD_Shape23/clayman_BN_neck
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_Shape22
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_Shape22/clayman_BN_head
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01/clayman_HD_Circle29
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01/clayman_HD_Circle29/clayman_BN_headA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01/clayman_HD_Circle28
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01/clayman_HD_Circle28
+          1/clayman_BN_headB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Shape18
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Shape18/clayman_BN_armB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16/clayman_HD_armA03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16/clayman_HD_armA03/clayman_BN_armC01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape12
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape12/clayman_BN_shoulder01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13/clayman_HD_armA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13/clayman_HD_armA01/clayman_BN_armA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_BN_hand01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_HD_Star04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_HD_Star04/clayman_BN_armD01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape12
+          3
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape12
+          3/clayman_BN_armB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17/clayman_HD_armA04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17/clayman_HD_armA04/clayman_BN_armC02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1/clayman_HD_armA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1/clayman_HD_armA02/clayman_BN_armA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          2/clayman_BN_shoulder02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_BN_hand02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_HD_Star02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_HD_Star02
+          1/clayman_BN_armD02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips/clayman_HS_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips/clayman_HS_hips/clayman_BN_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp04/clayman_BN_legB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02/clayman_HD_Shape04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02/clayman_HD_Shape04/clayman_BN_legC01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01/clayman_HD_Shape03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01/clayman_HD_Shape03/clayman_BN_legA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp06/clayman_BN_legB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07/clayman_HD_Shape05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07/clayman_HD_Shape05/clayman_BN_legC02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08/clayman_HD_Shape06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08/clayman_HD_Shape06/clayman_BN_legA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD/clayman_HS_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD/clayman_HS_spineD/clayman_BN_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HS_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HS_spineC/clayman_BN_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HS_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HS_spineB/clayman_BN_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HS_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HS_spineA/clayman_BN_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_CT_tiptoe01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_CT_tiptoe01/clayman_BN_tiptoe01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01/clayman_HD_foot01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01/clayman_HD_foot01/clayman_BN_foot01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_CT_tiptoe02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_CT_tiptoe02/clayman_BN_tiptoe02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02/clayman_HD_foot02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02/clayman_HD_foot02/clayman_BN_foot02
+        weight: 1
+      - path: clayman_MS_body01
+        weight: 1
+      - path: horns
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Enemy Running
+      takeName: Take 001
+      firstFrame: 174
+      lastFrame: 195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: clayman_CT_center
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05/clayman_HD_clavicleA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05/clayman_HD_clavicleA01/clayman_BN_clavicle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02/clayman_HD_clavicleA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02/clayman_HD_clavicleA02/clayman_BN_clavicle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33/clayman_HD_Shape23
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33/clayman_HD_Shape23/clayman_BN_neck
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_Shape22
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_Shape22/clayman_BN_head
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01/clayman_HD_Circle29
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01/clayman_HD_Circle29/clayman_BN_headA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01/clayman_HD_Circle28
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01/clayman_HD_Circle28
+          1/clayman_BN_headB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Shape18
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Shape18/clayman_BN_armB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16/clayman_HD_armA03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16/clayman_HD_armA03/clayman_BN_armC01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape12
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape12/clayman_BN_shoulder01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13/clayman_HD_armA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13/clayman_HD_armA01/clayman_BN_armA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_BN_hand01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_HD_Star04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_HD_Star04/clayman_BN_armD01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape12
+          3
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape12
+          3/clayman_BN_armB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17/clayman_HD_armA04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17/clayman_HD_armA04/clayman_BN_armC02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1/clayman_HD_armA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1/clayman_HD_armA02/clayman_BN_armA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          2/clayman_BN_shoulder02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_BN_hand02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_HD_Star02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_HD_Star02
+          1/clayman_BN_armD02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips/clayman_HS_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips/clayman_HS_hips/clayman_BN_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp04/clayman_BN_legB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02/clayman_HD_Shape04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02/clayman_HD_Shape04/clayman_BN_legC01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01/clayman_HD_Shape03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01/clayman_HD_Shape03/clayman_BN_legA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp06/clayman_BN_legB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07/clayman_HD_Shape05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07/clayman_HD_Shape05/clayman_BN_legC02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08/clayman_HD_Shape06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08/clayman_HD_Shape06/clayman_BN_legA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD/clayman_HS_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD/clayman_HS_spineD/clayman_BN_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HS_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HS_spineC/clayman_BN_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HS_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HS_spineB/clayman_BN_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HS_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HS_spineA/clayman_BN_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_CT_tiptoe01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_CT_tiptoe01/clayman_BN_tiptoe01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01/clayman_HD_foot01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01/clayman_HD_foot01/clayman_BN_foot01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_CT_tiptoe02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_CT_tiptoe02/clayman_BN_tiptoe02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02/clayman_HD_foot02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02/clayman_HD_foot02/clayman_BN_foot02
+        weight: 1
+      - path: clayman_MS_body01
+        weight: 1
+      - path: horns
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Enemy Die
+      takeName: Take 001
+      firstFrame: 666
+      lastFrame: 719
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: clayman_CT_center
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05/clayman_HD_clavicleA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle01/clayman_HD_legA05/clayman_HD_clavicleA01/clayman_BN_clavicle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02/clayman_HD_clavicleA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_CT_clavicle02/clayman_HD_legA02/clayman_HD_clavicleA02/clayman_BN_clavicle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33/clayman_HD_Shape23
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_aamirelp11/clayman_HD_Line33/clayman_HD_Shape23/clayman_BN_neck
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_Shape22
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_Shape22/clayman_BN_head
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01/clayman_HD_Circle29
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_A01/clayman_HD_Circle29/clayman_BN_headA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01/clayman_HD_Circle28
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Circle28/clayman_CT_head/clayman_HD_SqushMain01/clayman_HS_squashHead_B01/clayman_HD_Circle28
+          1/clayman_BN_headB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Shape18
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Shape18/clayman_BN_armB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16/clayman_HD_armA03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_legA04/clayman_HD_legA06/clayman_HD_Star03/clayman_CT_elbow01/clayman_HD_Star06/clayman_HD_Shape16/clayman_HD_armA03/clayman_BN_armC01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape12
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape12/clayman_BN_shoulder01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13/clayman_HD_armA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_CT_shoulder01/clayman_HD_Shape13/clayman_HD_armA01/clayman_BN_armA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_BN_hand01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_HD_Star04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star08/clayman_HD_fdfs/clayman_CT_handSoft01/clayman_HD_hand01/clayman_HD_Star04/clayman_BN_armD01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape12
+          3
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape12
+          3/clayman_BN_armB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17/clayman_HD_armA04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_legA02
+          1/clayman_HD_legA02 2/clayman_HD_Star02/clayman_CT_elbow02/clayman_HD_Shape17/clayman_HD_armA04/clayman_BN_armC02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1/clayman_HD_armA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          1/clayman_HD_armA02/clayman_BN_armA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_CT_shoulder02/clayman_HD_Shape12
+          2/clayman_BN_shoulder02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_BN_hand02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_HD_Star02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_chest/clayman_HD_Star09/clayman_HD_fdf2/clayman_CT_handSoft02/clayman_HD_hand02/clayman_HD_Star02
+          1/clayman_BN_armD02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips/clayman_HS_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_hips/clayman_HS_hips/clayman_BN_hips
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp04/clayman_BN_legB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02/clayman_HD_Shape04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_legB01/clayman_HD_Circle05/clayman_HD_Rectangle02
+          1/clayman_HD_Star01/clayman_CT_knee01/clayman_HD_mirelp05/clayman_HD_Shape02/clayman_HD_Shape04/clayman_BN_legC01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01/clayman_HD_Shape03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle03
+          1/clayman_HD_Rectangle01/clayman_HD_legA01/clayman_HD_Shape01/clayman_HD_Shape03/clayman_BN_legA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp06/clayman_BN_legB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07/clayman_HD_Shape05
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_legB03/clayman_HD_Circle08/clayman_HD_Rectangle06/clayman_HD_Star02
+          2/clayman_CT_knee02/clayman_HD_mirelp07/clayman_HD_Shape07/clayman_HD_Shape05/clayman_BN_legC02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08/clayman_HD_Shape06
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_Rectangle05/clayman_HD_Rectangle04/clayman_HD_legA03/clayman_HD_Shape08/clayman_HD_Shape06/clayman_BN_legA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD/clayman_HS_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HD_spineD/clayman_HS_spineD/clayman_BN_spineD
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HS_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HD_spineC/clayman_HS_spineC/clayman_BN_spineC
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HS_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HD_spineB/clayman_HS_spineB/clayman_BN_spineB
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HS_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_body/clayman_CT_hips/clayman_HD_spineLukat/clayman_HD_spineA/clayman_HS_spineA/clayman_BN_spineA
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_CT_tiptoe01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_CT_tiptoe01/clayman_BN_tiptoe01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01/clayman_HD_foot01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg01/clayman_HD_Rectangle02/clayman_HD_LegTipA01/clayman_HD_LegTipB01/clayman_HD_foot01/clayman_BN_foot01
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_CT_tiptoe02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_CT_tiptoe02/clayman_BN_tiptoe02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02/clayman_HD_foot02
+        weight: 1
+      - path: clayman_CT_center/clayman_CT_floor/clayman_CT_leg02/clayman_HD_Rectangle03/clayman_HD_LegTipA02/clayman_HD_LegTipB02/clayman_HD_foot02/clayman_BN_foot02
+        weight: 1
+      - path: clayman_MS_body01
+        weight: 1
+      - path: horns
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

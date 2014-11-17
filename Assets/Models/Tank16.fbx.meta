@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 3ec9408269a817a4196c80e0358cb882
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BN_myBone16
+    100002: BN_myBone17
+    100004: BN_myBone18
+    100006: BN_myBone19
+    100008: BN_myBone20
+    100010: BN_myBone21
+    100012: BN_myBone23
+    100014: BN_myBone24
+    100016: BN_myBone25
+    100018: BN_myBone29
+    100020: BN_myBone30
+    100022: BN_myBone31
+    100024: BN_myBone32
+    100026: BN_myBone33
+    100028: BN_myBone34
+    100030: BN_myBone35
+    100032: BN_myBone36
+    100034: BN_myBone37
+    100036: BN_myBone38
+    100038: BN_myBone39
+    100040: BN_myBone40
+    100042: CT_Circle02_01
+    100044: CT_Circle02_02
+    100046: CT_Circle04_01
+    100048: CT_Circle05torax_01
+    100050: CT_Circle06_01
+    100052: CT_Circle08_01
+    100054: CT_Circle08_02
+    100056: CT_MAIN
+    100058: CT_Shape12_01
+    100060: CT_Shape12_02
+    100062: CT_Shape13_01
+    100064: CT_Shape13_02
+    100066: CT_Star10
+    100068: HD_Rectangle01_01
+    100070: HD_Rectangle01_02
+    100072: HD_Rectangle04_01
+    100074: HD_Rectangle04_02
+    100076: HD_Rectangle05_01
+    100078: HD_Rectangle11_01
+    100080: HD_Rectangle11_02
+    100082: HD_Rectangle12_01
+    100084: HD_Rectangle12_02
+    100086: HD_Shape01_01
+    100088: HD_Shape01_02
+    100090: HD_Shape02_01
+    100092: HD_Shape02_02
+    100094: HD_Shape03_01
+    100096: HD_Shape03_02
+    100098: HD_Shape04_01
+    100100: HD_Shape04_02
+    100102: HD_Shape05_01
+    100104: HD_Shape06_01
+    100106: HD_Shape07_01
+    100108: HD_Shape08_01
+    100110: HD_Shape08_02
+    100112: HD_Shape09_01
+    100114: HD_Shape09_02
+    100116: HD_Shape10_01
+    100118: HD_Shape14_01
+    100120: HD_Star02_01
+    100122: HD_Star02_02
+    100124: HD_Star03_01
+    100126: HD_Star03_02
+    100128: HD_Star07_01
+    100130: HD_Star07_02
+    100132: HD_Star08_01
+    100134: HD_Star11
+    100136: HD_Star12_01
+    100138: HD_Star12_02
+    100140: objTank_body
+    100142: //RootNode
+    400000: BN_myBone16
+    400002: BN_myBone17
+    400004: BN_myBone18
+    400006: BN_myBone19
+    400008: BN_myBone20
+    400010: BN_myBone21
+    400012: BN_myBone23
+    400014: BN_myBone24
+    400016: BN_myBone25
+    400018: BN_myBone29
+    400020: BN_myBone30
+    400022: BN_myBone31
+    400024: BN_myBone32
+    400026: BN_myBone33
+    400028: BN_myBone34
+    400030: BN_myBone35
+    400032: BN_myBone36
+    400034: BN_myBone37
+    400036: BN_myBone38
+    400038: BN_myBone39
+    400040: BN_myBone40
+    400042: CT_Circle02_01
+    400044: CT_Circle02_02
+    400046: CT_Circle04_01
+    400048: CT_Circle05torax_01
+    400050: CT_Circle06_01
+    400052: CT_Circle08_01
+    400054: CT_Circle08_02
+    400056: CT_MAIN
+    400058: CT_Shape12_01
+    400060: CT_Shape12_02
+    400062: CT_Shape13_01
+    400064: CT_Shape13_02
+    400066: CT_Star10
+    400068: HD_Rectangle01_01
+    400070: HD_Rectangle01_02
+    400072: HD_Rectangle04_01
+    400074: HD_Rectangle04_02
+    400076: HD_Rectangle05_01
+    400078: HD_Rectangle11_01
+    400080: HD_Rectangle11_02
+    400082: HD_Rectangle12_01
+    400084: HD_Rectangle12_02
+    400086: HD_Shape01_01
+    400088: HD_Shape01_02
+    400090: HD_Shape02_01
+    400092: HD_Shape02_02
+    400094: HD_Shape03_01
+    400096: HD_Shape03_02
+    400098: HD_Shape04_01
+    400100: HD_Shape04_02
+    400102: HD_Shape05_01
+    400104: HD_Shape06_01
+    400106: HD_Shape07_01
+    400108: HD_Shape08_01
+    400110: HD_Shape08_02
+    400112: HD_Shape09_01
+    400114: HD_Shape09_02
+    400116: HD_Shape10_01
+    400118: HD_Shape14_01
+    400120: HD_Star02_01
+    400122: HD_Star02_02
+    400124: HD_Star03_01
+    400126: HD_Star03_02
+    400128: HD_Star07_01
+    400130: HD_Star07_02
+    400132: HD_Star08_01
+    400134: HD_Star11
+    400136: HD_Star12_01
+    400138: HD_Star12_02
+    400140: objTank_body
+    400142: //RootNode
+    2300000: BN_myBone16
+    2300002: BN_myBone17
+    2300004: BN_myBone18
+    2300006: BN_myBone19
+    2300008: BN_myBone20
+    2300010: BN_myBone21
+    2300012: BN_myBone23
+    2300014: BN_myBone24
+    2300016: BN_myBone25
+    2300018: BN_myBone29
+    2300020: BN_myBone30
+    2300022: BN_myBone31
+    2300024: BN_myBone32
+    2300026: BN_myBone33
+    2300028: BN_myBone34
+    2300030: BN_myBone35
+    2300032: BN_myBone36
+    2300034: BN_myBone37
+    2300036: BN_myBone38
+    2300038: BN_myBone39
+    2300040: BN_myBone40
+    3300000: BN_myBone16
+    3300002: BN_myBone17
+    3300004: BN_myBone18
+    3300006: BN_myBone19
+    3300008: BN_myBone20
+    3300010: BN_myBone21
+    3300012: BN_myBone23
+    3300014: BN_myBone24
+    3300016: BN_myBone25
+    3300018: BN_myBone29
+    3300020: BN_myBone30
+    3300022: BN_myBone31
+    3300024: BN_myBone32
+    3300026: BN_myBone33
+    3300028: BN_myBone34
+    3300030: BN_myBone35
+    3300032: BN_myBone36
+    3300034: BN_myBone37
+    3300036: BN_myBone38
+    3300038: BN_myBone39
+    3300040: BN_myBone40
+    4300000: objTank_body
+    4300002: BN_myBone23
+    4300004: BN_myBone24
+    4300006: BN_myBone16
+    4300008: BN_myBone19
+    4300010: BN_myBone18
+    4300012: BN_myBone17
+    4300014: BN_myBone37
+    4300016: BN_myBone38
+    4300018: BN_myBone39
+    4300020: BN_myBone40
+    4300022: BN_myBone25
+    4300024: BN_myBone21
+    4300026: BN_myBone20
+    4300028: BN_myBone30
+    4300030: BN_myBone29
+    4300032: BN_myBone33
+    4300034: BN_myBone34
+    4300036: BN_myBone35
+    4300038: BN_myBone36
+    4300040: BN_myBone32
+    4300042: BN_myBone31
+    7400000: Idle
+    7400002: Run
+    7400004: Attack
+    7400006: Die
+    9500000: //RootNode
+    13700000: objTank_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 171
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CT_MAIN
+        weight: 1
+      - path: CT_MAIN/CT_Star10
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/BN_myBone20
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01/BN_myBone21
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/BN_myBone29
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01/BN_myBone30
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/BN_myBone34
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02/BN_myBone33
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01/BN_myBone25
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01/BN_myBone16
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01/BN_myBone19
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01/BN_myBone18
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01/BN_myBone17
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02/BN_myBone37
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02/BN_myBone38
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02/BN_myBone39
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02/BN_myBone40
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/BN_myBone24
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01/BN_myBone23
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01/BN_myBone32
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01/BN_myBone31
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02/BN_myBone35
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02/BN_myBone36
+        weight: 1
+      - path: objTank_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 417
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CT_MAIN
+        weight: 1
+      - path: CT_MAIN/CT_Star10
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/BN_myBone20
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01/BN_myBone21
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/BN_myBone29
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01/BN_myBone30
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/BN_myBone34
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02/BN_myBone33
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01/BN_myBone25
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01/BN_myBone16
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01/BN_myBone19
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01/BN_myBone18
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01/BN_myBone17
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02/BN_myBone37
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02/BN_myBone38
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02/BN_myBone39
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02/BN_myBone40
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/BN_myBone24
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01/BN_myBone23
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01/BN_myBone32
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01/BN_myBone31
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02/BN_myBone35
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02/BN_myBone36
+        weight: 1
+      - path: objTank_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 231
+      lastFrame: 263
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CT_MAIN
+        weight: 1
+      - path: CT_MAIN/CT_Star10
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/BN_myBone20
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01/BN_myBone21
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/BN_myBone29
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01/BN_myBone30
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/BN_myBone34
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02/BN_myBone33
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01/BN_myBone25
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01/BN_myBone16
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01/BN_myBone19
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01/BN_myBone18
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01/BN_myBone17
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02/BN_myBone37
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02/BN_myBone38
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02/BN_myBone39
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02/BN_myBone40
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/BN_myBone24
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01/BN_myBone23
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01/BN_myBone32
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01/BN_myBone31
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02/BN_myBone35
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02/BN_myBone36
+        weight: 1
+      - path: objTank_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 705
+      lastFrame: 732
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CT_MAIN
+        weight: 1
+      - path: CT_MAIN/CT_Star10
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/BN_myBone20
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle05_01/HD_Shape06_01/HD_Shape07_01/BN_myBone21
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/BN_myBone29
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_01/HD_Star07_01/HD_Shape08_01/HD_Shape09_01/BN_myBone30
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/BN_myBone34
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Rectangle11_02/HD_Star07_02/HD_Shape08_02/HD_Shape09_02/BN_myBone33
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle04_01/HD_Shape05_01/BN_myBone25
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Rectangle01_01/HD_Shape01_01/BN_myBone16
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Shape04_01/BN_myBone19
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Shape03_01/HD_Star03_01/BN_myBone18
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_01/HD_Star12_01/CT_Circle02_01/HD_Rectangle04_01/HD_Shape02_01/HD_Star02_01/BN_myBone17
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Rectangle01_02/HD_Shape01_02/BN_myBone37
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Shape04_02/BN_myBone38
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Shape03_02/HD_Star03_02/BN_myBone39
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Rectangle12_02/HD_Star12_02/CT_Circle02_02/HD_Rectangle04_02/HD_Shape02_02/HD_Star02_02/BN_myBone40
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/BN_myBone24
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle06_01/CT_Circle05torax_01/HD_Star08_01/HD_Shape10_01/HD_Shape14_01/BN_myBone23
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape12_01/BN_myBone32
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01
+        weight: 1
+      - path: CT_MAIN/CT_Star10/CT_Circle08_01/CT_Shape13_01/BN_myBone31
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape12_02/BN_myBone35
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02
+        weight: 1
+      - path: CT_MAIN/CT_Star10/HD_Star11/CT_Circle08_02/CT_Shape13_02/BN_myBone36
+        weight: 1
+      - path: objTank_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

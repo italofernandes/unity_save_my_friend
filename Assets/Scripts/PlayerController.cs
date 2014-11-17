@@ -103,7 +103,7 @@ public class PlayerController : MonoBehaviour {
                     EnemyHealthScript enemyHealthScript = enemy.GetComponent<EnemyHealthScript>();
                     enemyHealthScript.takeDamage(damegeAmount);
                 }
-                else if (otherElement.tag.Equals("BlueDoorLock"))
+                else if (otherElement != null && otherElement.tag.Equals("BlueDoorLock"))
                 {
                     DoorScript doorScript = otherElement.GetComponent<DoorScript>();
                     doorScript.OpenDoor(playerHasTheKey);

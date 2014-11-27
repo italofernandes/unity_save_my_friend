@@ -26,6 +26,8 @@ public class PlayerController : MonoBehaviour {
 
     bool playerHasTheKey;
 
+	public float pushPower = 2.5f;
+
 
 	// Use this for initialization
 	void Start () {
@@ -111,6 +113,28 @@ public class PlayerController : MonoBehaviour {
             }
         }
     }
+
+	void OnControllerColliderHit(ControllerColliderHit hit){
+
+		Debug.Log ("OnControllerColliderHit");
+
+		if(hit.gameObject.tag.Equals("Crate")){
+
+			Rigidbody otherBody = hit.collider.attachedRigidbody;
+
+			if (otherBody == null || otherBody.isKinematic) {
+				return;
+			}
+
+			if (hit.moveDirection.y < -0.3) {
+				return;
+			}
+
+			Vector3 pushDirection = new Vector3(hit.moveDirection.x, 0, hit.moveDirection.z);
+
+			otherBody.velocity = pushDirection * pushPower;
+		}
+	}
 
     void AnimateAttackAction() {
         anim.SetTrigger(ATTACK_ANIMATOR_CONSTANT);

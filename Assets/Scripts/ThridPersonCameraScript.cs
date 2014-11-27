@@ -18,10 +18,11 @@ public class ThridPersonCameraScript : MonoBehaviour {
 
     void LateUpdate() {
         float desireddAngle = target.transform.eulerAngles.y;
-        Quaternion rotation = Quaternion.Euler(0, desireddAngle, 0);
+        
+		Quaternion rotation = Quaternion.Euler(0, desireddAngle, 0);
 
         transform.position = target.transform.position - (rotation * offSet);
 
-        transform.LookAt(target.transform);
+		transform.LookAt(target.transform);
     }
 }
